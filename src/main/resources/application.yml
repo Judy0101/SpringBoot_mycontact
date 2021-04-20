@@ -1,0 +1,3 @@
+spring:
+  jap:
+    show-sql: true
